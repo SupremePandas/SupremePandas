@@ -8,5 +8,5 @@ SupremePandas/SupremePandas is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
+name: generate-snake-game-from-github-contribution-grid
+uses: Platane/snk@v2.0.0-rc.2
