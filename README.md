@@ -47,7 +47,7 @@
 [![@supremepandas's Holopin board](https://holopin.me/supremepandas)](https://holopin.io/@supremepandas)
 
 
-## Just a snake eating my contributions 🐍
+## Just a snake eating contributions 🐍
 <p align='center'>
 <img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
 </p>
