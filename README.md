@@ -23,23 +23,6 @@
 </p>
 <br>
 
-### Frameworks & Libraries 📦 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Design 🎨 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">&nbsp;&nbsp;
-</p>
-<br>
 
 ### IDEs/Editors 👨‍🔧 :
 <br>
